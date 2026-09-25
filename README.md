@@ -91,9 +91,8 @@ L'**aviation** est une autre de mes grandes passions.
 
 Je m'intéresse notamment à la simulation de vol avec :
 
-![Microsoft Flight Simulator 2024](https://img.shields.io/badge/Microsoft%20Flight%20Simulator%202024-0078D4?style=for-the-badge\&logo=xbox\&logoColor=white)
-![Microsoft Flight Simulator 2020](https://img.shields.io/badge/Microsoft%20Flight%20Simulator%202020-0078D4?style=for-the-badge\&logo=xbox\&logoColor=white)
-![DCS World](https://img.shields.io/badge/DCS%20World-333333?style=for-the-badge)
+<a href="[https://www.digitalcombatsimulator.com](https://www.flightsimulator.com)" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Flight%20Simulator%202024-0078D4?style=for-the-badge\&logo=xbox\&logoColor=white" alt="Arch Linux" /></a>
+<a href="https://www.digitalcombatsimulator.com" target="_blank"><img src="https://img.shields.io/badge/DCS%20World-333333?style=for-the-badge" alt="Arch Linux" /></a>
 
 Et dès que je vois un avion passer, j'ouvre presque automatiquement **Flightradar24** pour regarder lequel c'est, d'où il vient et où il va. ✈️
 
