@@ -99,18 +99,4 @@ Et dès que je vois un avion passer, j'ouvre presque automatiquement **Flightrad
 
 ---
 
-## 🎯 Mon objectif
-
-> **Apprendre • Expérimenter • Créer**
-
-J'aimerais pouvoir combiner au fil du temps **programmation, IA, audiovisuel, création et jeux vidéo** dans mes futurs projets.
-
----
-
-<p align="center">
-
-🎮 💻 🎬 🤖 ⛏️
-
-**Code • Create • Learn • Repeat**
-
 </p>
