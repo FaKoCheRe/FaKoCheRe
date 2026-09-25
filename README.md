@@ -67,8 +67,37 @@ J'aimerais notamment apprendre le **modding Minecraft** afin de pouvoir transfor
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
+# ❤️ Mes passions
 
+### 🎮 Jeux vidéo
+
+Je joue notamment à :
+
+![Rocket League](https://img.shields.io/badge/Rocket%20League-313131?style=for-the-badge\&logo=rocketleague\&logoColor=white)
+![BeamNG.drive](https://img.shields.io/badge/BeamNG.drive-ff6600?style=for-the-badge)
+![Assetto Corsa](https://img.shields.io/badge/Assetto%20Corsa-000000?style=for-the-badge)
+![Euro Truck Simulator 2](https://img.shields.io/badge/Euro%20Truck%20Simulator%202-3d5a80?style=for-the-badge)
+![CarX Drift Racing Online](https://img.shields.io/badge/CarX%20Drift%20Racing%20Online-222222?style=for-the-badge)
+
+### 🚗 Automobile
+
+Je suis également passionné par **l'automobile**, particulièrement par la conduite, les voitures, le drift et la simulation automobile.
+
+Des jeux comme **BeamNG.drive**, **Assetto Corsa** et **CarX Drift Racing Online** me permettent notamment d'explorer cet univers.
+
+### ✈️ Aviation
+
+L'**aviation** est une autre de mes grandes passions.
+
+Je m'intéresse notamment à la simulation de vol avec :
+
+![Microsoft Flight Simulator 2024](https://img.shields.io/badge/Microsoft%20Flight%20Simulator%202024-0078D4?style=for-the-badge\&logo=xbox\&logoColor=white)
+![Microsoft Flight Simulator 2020](https://img.shields.io/badge/Microsoft%20Flight%20Simulator%202020-0078D4?style=for-the-badge\&logo=xbox\&logoColor=white)
+![DCS World](https://img.shields.io/badge/DCS%20World-333333?style=for-the-badge)
+
+Et dès que je vois un avion passer, j'ouvre presque automatiquement **Flightradar24** pour regarder lequel c'est, d'où il vient et où il va. ✈️
+
+---
 
 ## 🎯 Mon objectif
 
