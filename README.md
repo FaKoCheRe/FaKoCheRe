@@ -1,8 +1,8 @@
 # 👋 Salut, moi c'est Tr1qz !
 
-> 🎮 Passionné de jeux vidéo • 💻 Étudiant en informatique • 🎬 Audiovisuel • 🤖 IA
-
 ## 🧑‍💻 À propos de moi
+
+> 🎮 Passionné de jeux vidéo • 💻 Étudiant en informatique • 🎬 Audiovisuel • 🤖 IA
 
 Depuis tout petit, je suis plongé dans le monde de l'informatique grâce à mon père, qui m'a fait découvrir les jeux vidéo et cet univers dès mon plus jeune âge.
 
