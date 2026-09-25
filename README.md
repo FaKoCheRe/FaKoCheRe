@@ -1,6 +1,6 @@
-# 👋 Salut, moi c'est Tr1qz !
+# 👋 Salut, moi c'est FaKo !
 
-Je m'appelle Enzo et je suis actuellement étudiant dans le domaine du développement informatique. Je commence aujourd'hui à me lancer sur GitHub, avec l'envie de partager mes projets, d'expérimenter et surtout d'en apprendre toujours plus sur le monde de l'informatique.
+Je m'appelle Enzo et je suis actuellement étudiant dans le domaine du développement informatique. J'ai envie de partager mes projets, d'expérimenter et surtout d'en apprendre toujours plus sur le monde de l'informatique.
 
 Depuis tout petit, je suis passionné par l'informatique et les jeux vidéo. Mon père m'a fait découvrir cet univers dès mon plus jeune âge, et cette passion m'a progressivement donné envie de comprendre comment les choses fonctionnent et comment les créer moi-même.
 
