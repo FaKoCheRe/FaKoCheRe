@@ -1,12 +1,12 @@
 # 👋 Salut, moi c'est Tr1qz !
 
-## 🧑‍💻 À propos de moi
+Je m'appelle Enzo et je suis actuellement étudiant dans le domaine du développement informatique. Je commence aujourd'hui à me lancer sur GitHub, avec l'envie de partager mes projets, d'expérimenter et surtout d'en apprendre toujours plus sur le monde de l'informatique.
+
+Depuis tout petit, je suis passionné par l'informatique et les jeux vidéo. Mon père m'a fait découvrir cet univers dès mon plus jeune âge, et cette passion m'a progressivement donné envie de comprendre comment les choses fonctionnent et comment les créer moi-même.
+
+Dans mes études, je travaille notamment avec Java et CSS, et je m'intéresse également à Arduino. J'aimerais progressivement découvrir davantage de langages, d'outils et de domaines liés à l'informatique afin de développer mes compétences et réaliser mes propres projets
 
 > 🎮 Passionné de jeux vidéo • 💻 Étudiant en informatique • 🎬 Audiovisuel • 🤖 IA
-
-Depuis tout petit, je suis plongé dans le monde de l'informatique grâce à mon père, qui m'a fait découvrir les jeux vidéo et cet univers dès mon plus jeune âge.
-
-Je suis actuellement **étudiant en informatique**, dans un programme orienté **développement**, où j'apprends notamment le **Java** et le **CSS**. Je m'intéresse également à l'**Arduino** et à l'électronique.
 
 ---
 
