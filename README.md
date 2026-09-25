@@ -71,13 +71,6 @@ J'aimerais notamment apprendre le **modding Minecraft** afin de pouvoir transfor
 
 ---
 
-## 🎮 Gaming
-
-![Rocket League](https://img.shields.io/badge/Rocket%20League-313131?style=for-the-badge\&logo=rocketleague\&logoColor=white)
-
-🎮 **Rocket League** depuis mes 9 ans, ainsi que de nombreux autres jeux vidéo.
-
----
 
 ## 🎯 Mon objectif
 
