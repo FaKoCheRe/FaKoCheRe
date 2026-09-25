@@ -8,8 +8,6 @@ Depuis tout petit, je suis plongé dans le monde de l'informatique grâce à mon
 
 Je suis actuellement **étudiant en informatique**, dans un programme orienté **développement**, où j'apprends notamment le **Java** et le **CSS**. Je m'intéresse également à l'**Arduino** et à l'électronique.
 
-🎮 Je suis un grand passionné de jeux vidéo et je joue notamment à **Rocket League depuis l'âge de 9 ans**.
-
 ---
 
 ## 🎬 Audiovisuel
